@@ -13,5 +13,7 @@ public class test {
         System.out.println("Hallo");
         System.out.println("Dit is een test!");
         System.out.println("Verander dit!");
+         System.out.println("Strongboyzzz");
+          System.out.println("Je Weet Zelluffff");
     }
 }
